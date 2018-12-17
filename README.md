@@ -1,1 +1,2 @@
 # ngoprek
+Ini ngoprek pertama
