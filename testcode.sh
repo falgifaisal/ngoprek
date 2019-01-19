@@ -1,1 +1,1 @@
-Hello from trigger job
+echo "Hello from trigger job"
