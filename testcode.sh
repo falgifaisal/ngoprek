@@ -1,2 +1,2 @@
 echo "Hello from $(hostname -f)"
-echo "Today is $(date)"
+echo "Today is $(date) blablabla"
